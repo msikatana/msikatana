@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hey there! I am Vishal Rathod.<br>🌱 A pre final year, undergraduate student.<br>💻 I am currently learning Web Development and similar technologies.<br>📩 Reach out to me at: vishal99rathod99@gmail.com
+🔭 Hey there! I am Vishal Rathod.<br>🌱 A pre final year, undergraduate student.<br>💻 I am currently learning Web Development and similar technologies.<br>📩 Reach out to me at: rathodvrr09@gmail.com
 
 
 # 💻 Tech Stack:
